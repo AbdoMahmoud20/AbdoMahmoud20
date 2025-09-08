@@ -19,3 +19,11 @@ I'm passionate about building backend systems, exploring machine learning, and i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
+---
+
+## 📌 What I'm Learning
+- Backend Development (APIs, Databases, System Design)  
+- Machine Learning & AI Applications  
+- Writing clean, scalable, and efficient code  
+
+---
