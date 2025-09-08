@@ -30,6 +30,9 @@ I'm passionate about building backend systems, exploring machine learning, and i
 
 ---
 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank">
+
 ## 📌 What I'm Learning
 - Backend Development (APIs, Databases, System Design)  
 - Machine Learning & AI Applications  
