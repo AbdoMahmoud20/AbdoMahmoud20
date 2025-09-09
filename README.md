@@ -7,7 +7,14 @@ I'm passionate about building backend systems, exploring machine learning, and i
 ---
 
 ## 🚀 Tech Stack  
-
+## 🚀 Programming Languages
+<p align="left">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+</p>
 
 ## 🚀 Backend & Databases
 <p align="left">
